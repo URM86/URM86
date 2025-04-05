@@ -16,7 +16,7 @@ I am currently Postdoc Researcher at the Laboratório Espaço Público e Direito
 ---
 ### 📌 About Me:
 
-🔍 During my undergraduate studies, I focused on Cartography and Remote Sensing. In my Master's degree, I specialized in Hydrology and Numerical Modeling (both Atmospheric and Hydrological).
+🔍 During my undergraduate studies, I focused on Cartography and Remote Sensing. In my Master's degree, I focused on Hydrology and Numerical Modeling (both Atmospheric and Hydrological).
 
 🎯 In my free time, I love reading books on Brazilian mythology and history, learning about financial markets, playing the ukulele, training in Muay Thai, playing video games, going for walks, and listening to classical music.
 
