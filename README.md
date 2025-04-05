@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="https://github.com/URM86/URM86/blob/main/Pr%C3%AAmio%20CNPq_Alice%20C%C3%A9sar%20Fassoni%20de%20Andrade2.PNG?raw=true" 
+       alt="Prêmio CNPq"
+       style="object-fit: cover;" />
+</div>
+
+
 ## Hi there, I'm Ulises Rodrigo Magdalena :earth_americas:
 I'm a Geographer & Data Scientist, with a DSc. in Geography from the Universidade de Campinas (2019-2023) and a Postdoc from the Programa Emergencial de Prevenção e Enfrentamento de Desastres Relacionados a Emergências Climáticas, Eventos Extremos, Acidentes Ambientais (PEPEEC) at the Fundação Coordenação de Aperfeiçoamento de Pessoal de Nível Superior – CAPES (2024-2025).
 
