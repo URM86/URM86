@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/URM86/URM86/blob/main/Pr%C3%AAmio%20CNPq_Alice%20C%C3%A9sar%20Fassoni%20de%20Andrade2.PNG?raw=true" 
+  <img src="https://github.com/URM86/URM86/blob/main/Premio%20CNPq_Alice_Fassoni.PNG?raw=true" 
        alt="Prêmio CNPq"
        style="object-fit: cover;" />
 </div>
